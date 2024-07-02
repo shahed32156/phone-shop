@@ -1,0 +1,57 @@
+[
+
+    {
+     
+        "id" : 7,
+        "img" : "./Images/s1.png",
+        "title" : "Galaxy S23",
+        "price" : "73,000.00 BDT",
+        "msg1": "Buy now",
+        "msg2": "See more"
+
+    },
+
+    {
+     
+        "id" : 8,
+        "img" : "./Images/s2.png",
+        "title" : "Galaxy S24",
+        "price" : "249,000 BDT",
+        "msg1": "Buy now",
+        "msg2": "See more"
+
+    },
+
+    {
+     
+        "id" : 9,
+        "img" : "./Images/s3.png",
+        "title" : "Galaxy S22",
+        "price" : "60,000 BDT",
+        "msg1": "Buy now",
+        "msg2": "See more"
+    },
+
+
+    {
+     
+        "id" : 10,
+        "img" : "./Images/s4.png",
+        "title" : "Galaxy S21",
+        "price" : "52,500 BDT",
+        "msg1": "Buy now",
+        "msg2": "See more"
+    },
+
+    {
+     
+        "id" : 11,
+        "img" : "./Images/s5.png",
+        "title" : "Galaxy S21",
+        "price" : "39,000 BDT",
+        "msg1": "Buy now",
+        "msg2": "See more"
+    }
+   
+
+]

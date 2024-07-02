@@ -1,0 +1,33 @@
+[
+
+    {
+     
+        "id" : 12,
+        "img" : "./Images/o1.png",
+        "title" : "OnePlus 10 pro",
+        "price" : "37,500 BDT",
+        "msg1": "Buy now",
+        "msg2": "See more"
+    },
+
+    {
+     
+        "id" : 13,
+        "img" : "./Images/o2.png",
+        "title" : "OnePlus 11",
+        "price" : "73,000 BDT",
+        "msg1": "Buy now",
+        "msg2": "See more"
+    },
+
+    {
+     
+        "id" : 14,
+        "img" : "./Images/o3.png",
+        "title" : "OnePlus 9",
+        "price" : "36,000 BDT",
+        "msg1": "Buy now",
+        "msg2": "See more"
+    }
+    
+]

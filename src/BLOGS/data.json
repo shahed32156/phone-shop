@@ -1,0 +1,38 @@
+[
+
+
+    {
+     
+        "id" : 1,
+        "img" : "./Images/b1.png",
+        "title" : "Updated Featured Release",
+        "date" : "09th June 2024 /",
+        "comment": "99k comment",
+        "desc": "Introducing the latest iPhone, featuring a stunning new design, advanced camera systems, and the most powerful chip ever in a smartphone. Experience unprecedented performance and seamless connectivity, all in a sleek and durable frame."
+
+    },
+
+    {
+     
+        "id" : 1,
+        "img" : "./Images/b2.png",
+        "title" : "New Feature 2024",
+        "date" : "15th June 2024 /",
+        "comment": "100k comment",
+        "desc": "Introducing the latest iPhone, featuring a stunning new design, advanced camera systems, and the most powerful chip ever in a smartphone. Experience unprecedented performance and seamless connectivity, all in a sleek and durable frame."
+
+    },
+
+    {
+     
+        "id" : 3,
+        "img" : "./Images/b3.png",
+        "title" : "International Stock",
+        "date" : "10th June 2024 /",
+        "comment": "60K comment",
+        "desc": "Introducing the latest iPhone, featuring a stunning new design, advanced camera systems, and the most powerful chip ever in a smartphone. Experience unprecedented performance and seamless connectivity, all in a sleek and durable frame."
+    }
+
+
+
+]

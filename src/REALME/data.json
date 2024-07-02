@@ -1,0 +1,33 @@
+[
+
+    {
+     
+        "id" : 18,
+        "img" : "./Images/r1.png",
+        "title" : "Realme 11",
+        "price" : "25,500 BDT",
+        "msg1": "Buy now",
+        "msg2": "See more"
+    },
+
+    {
+     
+        "id" : 19,
+        "img" : "./Images/r2.png",
+        "title" : "Realme 9 Pro Plus",
+        "price" : "34,985 BDT",
+        "msg1": "Buy now",
+        "msg2": "See more"
+    },
+
+    {
+     
+        "id" : 20,
+        "img" : "./Images/r3.png",
+        "title" : "Realme 10 Pro",
+        "price" : "25,600 BDT",
+        "msg1": "Buy now",
+        "msg2": "See more"
+    }
+    
+]

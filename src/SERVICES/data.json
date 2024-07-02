@@ -1,0 +1,41 @@
+[
+
+
+    {
+     
+        "id" : 1,
+        "img" : "./Images/services1.png",
+        "title" : "Free Shiping",
+        "desc" : "Order over 10k"
+
+    },
+
+    {
+     
+        "id" : 2,
+        "img" : "./Images/services2.png",
+        "title" : "Secure Payment",
+        "desc" : "100% Secure Payment"
+
+    },
+
+    {
+     
+        "id" : 3,
+        "img" : "./Images/services3.png",
+        "title" : "Best Price",
+        "desc" : "Guaranteed Low Cost"
+    },
+
+    {
+     
+        "id" : 4,
+        "img" : "./Images/services4.png",
+        "title" : "Easy Return",
+        "desc" : "Within 30 Days returns"
+
+    }
+
+
+
+]

@@ -1,0 +1,33 @@
+[
+
+    {
+     
+        "id" : 21,
+        "img" : "./Images/rm1.png",
+        "title" : "Redmi 12",
+        "price" : "16,000 BDT",
+        "msg1": "Buy now",
+        "msg2": "See more"
+    },
+
+    {
+     
+        "id" : 22,
+        "img" : "./Images/rm2.png",
+        "title" : "Redmi 11 pro",
+        "price" : "18,612 BDT",
+        "msg1": "Buy now",
+        "msg2": "See more"
+    },
+
+    {
+     
+        "id" : 23,
+        "img" : "./Images/rm3.png",
+        "title" : "Redmi 10",
+        "price" : "14,999 BDT",
+        "msg1": "Buy now",
+        "msg2": "See more"
+    }
+    
+]

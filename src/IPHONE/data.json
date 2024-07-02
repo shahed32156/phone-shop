@@ -1,0 +1,67 @@
+[
+
+
+    {
+     
+        "id" : 1,
+        "img" : "./Images/i1.png",
+        "title" : "iPhone 15",
+        "price" : "95,500 BDT",
+        "msg1": "Buy now",
+        "msg2": "See more"
+
+    },
+
+    {
+     
+        "id" : 2,
+        "img" : "./Images/i2.png",
+        "title" : "iPhone 15 Plus",
+        "price" : "111,000 BDT",
+        "msg1": "Buy now",
+        "msg2": "See more"
+
+    },
+
+    {
+     
+        "id" : 3,
+        "img" : "./Images/i3.png",
+        "title" : "iPhone 14",
+        "price" : "84,000 BDT",
+        "msg1": "Buy now",
+        "msg2": "See more"
+    },
+
+
+    {
+     
+        "id" : 4,
+        "img" : "./Images/i4.png",
+        "title" : "iPhone 12",
+        "price" : "64,500 BDT",
+        "msg1": "Buy now",
+        "msg2": "See more"
+    },
+
+    {
+     
+        "id" : 5,
+        "img" : "./Images/i5.png",
+        "title" : "iPhone 11",
+        "price" : "50,000 BDT",
+        "msg1": "Buy now",
+        "msg2": "See more"
+    },
+
+    {
+     
+        "id" : 6,
+        "img" : "./Images/i6.png",
+        "title" : "Apple iPhone X",
+        "price" : "43,000.00 BDT",
+        "msg1": "Buy now",
+        "msg2": "See more"
+    }
+
+]
