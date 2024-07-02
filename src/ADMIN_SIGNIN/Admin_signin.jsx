@@ -68,7 +68,7 @@ const Admin_signin = () => {
 
     <div className='mt-20 flex justify-center items-center mx-3'>
 
-    <div className='pb-12 px-6 rounded-md shadow-current shadow-lg'>
+    <div className='pb-12 px-6 rounded-md shadow-pink-700 shadow-lg'>
 
 <form onSubmit={handleSubmit} className='flex flex-col items-center justify-center gap-5'>
 
