@@ -23,16 +23,16 @@ const Carousel = () => {
             showStatus={false}
           >
             <div>
-              <img src="./Images/cover1.png" alt="Cover 1" className='w-full h-[300px] lg:h-[400px] lg:w-[400px]' />
+              <img src="./Images/cover1.png" alt="Cover 1" className='w-full h-[300px] md:w-[300px] lg:h-[400px] lg:w-[400px]' />
             </div>
             <div>
-              <img src="./Images/cover2.png" alt="Cover 2" className='w-full h-[300px] lg:h-[400px] lg:w-[400px]' />
+              <img src="./Images/cover2.png" alt="Cover 2" className='w-full h-[300px] md:w-[300px] lg:h-[400px] lg:w-[400px]' />
             </div>
             <div>
-              <img src="./Images/cover3.png" alt="Cover 3" className='w-full h-[300px] lg:h-[400px] lg:w-[400px]' />
+              <img src="./Images/cover3.png" alt="Cover 3" className='w-full h-[300px] md:w-[300px] lg:h-[400px] lg:w-[400px]' />
             </div>
             <div>
-              <img src="./Images/cover4.png" alt="Cover 3" className='w-full h-[300px] lg:h-[400px] lg:w-[400px]' />
+              <img src="./Images/cover4.png" alt="Cover 3" className='w-full h-[300px] md:w-[300px] lg:h-[400px] lg:w-[400px]' />
             </div>
           </ReactCarousel>
         </div>
