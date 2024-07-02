@@ -4,10 +4,21 @@ import { FaCartPlus } from "react-icons/fa";
 import { FaBookmark } from "react-icons/fa";
 import { FaRegArrowAltCircleRight } from "react-icons/fa";
 import { Link } from 'react-router-dom';
+import Swal from'sweetalert2';
 
 const Products_data_set = (props) => {
 
 const {img, title, price, msg1, msg2} = props;
+
+const handleCart = () => {
+
+  Swal.fire({
+    title: "Success",
+    text: "Product added into cart",
+    icon: "success"
+});
+
+}
 
   return (
 
@@ -24,7 +35,7 @@ const {img, title, price, msg1, msg2} = props;
                     <p className='text-center text-white'><span className='text-pink-700 font-bold'>Price: </span>{price}</p>
                     <div className='flex mt-4 justify-between rounded-b-md bg-pink-700 px-4 py-4'>
                         <Link to="/buy" className='text-center text-white text-[30px]'><FaCartPlus /></Link>
-                        <Link to="/buy" className='text-center text-white text-[30px]'><FaBookmark /></Link>
+                        <Link onClick={handleCart} className='text-center text-white text-[30px]'><FaBookmark /></Link>
                         
                     </div>
 
