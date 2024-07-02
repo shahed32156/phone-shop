@@ -6,7 +6,7 @@
         "id" : 1,
         "img" : "./Images/f1.png",
         "title" : "Iphone 14 pro max",
-        "price" : "141000 BDT",
+        "price" : "110,000 BDT",
         "msg1": "Buy now",
         "msg2": "See more"
 
@@ -28,7 +28,7 @@
         "id" : 3,
         "img" : "./Images/f3.png",
         "title" : "Samsung Galaxy M55",
-        "price" : "30999 BDT",
+        "price" : "30,999 BDT",
         "msg1": "Buy now",
         "msg2": "See more"
     },
@@ -39,7 +39,7 @@
         "id" : 4,
         "img" : "./Images/f4.png",
         "title" : "Google Pixel 8 Pro",
-        "price" : "84500 BDT",
+        "price" : "84,500 BDT",
         "msg1": "Buy now",
         "msg2": "See more"
     },
@@ -49,7 +49,7 @@
         "id" : 5,
         "img" : "./Images/f5.png",
         "title" : "Realme 11 Pro+",
-        "price" : "61000 BDT",
+        "price" : "61,000 BDT",
         "msg1": "Buy now",
         "msg2": "See more"
     },
