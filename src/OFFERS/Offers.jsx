@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { Link } from 'react-router-dom';
 
 const Offers = () => {
   const calculateTimeLeft = () => {
@@ -52,7 +53,7 @@ const Offers = () => {
             
           </div>
         </div>
-        <button className='text-white border-2 border-pink-700 transition duration-500 bg-none hover:bg-pink-700 h-[40px] w-[150px] rounded mt-2'>Explore products</button>
+        <button className='text-white border-2 border-pink-700 transition duration-500 bg-none hover:bg-pink-700 h-[40px] w-[150px] rounded mt-2'><Link to="/products">Explore products</Link></button>
       </div>
     </>
   );
