@@ -6,7 +6,7 @@ import { NavLink } from 'react-router-dom';
 const Carousel = () => {
   return (
     <>
-      <div className='mt-32 text-white mx-20 flex flex-col gap-8 lg:flex-row justify-between items-center'>
+      <div className='mt-32 text-white mx-20 flex flex-col gap-8 md:flex-row lg:flex-row justify-between items-center'>
         <div className='flex flex-col gap-6 items-center lg:items-start'>
           <h3 className='text-3xl text-center lg:text-start lg:w-[500px] md:text-4xl lg:text-5xl font-serif leading-snug'>Special Day Offer Get 20% Discount</h3>
           <p className='lg:w-[450px] text-center lg:text-start'>Best online business platform - We offers best, latest, official brand quality phones.</p>
@@ -23,16 +23,16 @@ const Carousel = () => {
             showStatus={false}
           >
             <div>
-              <img src="./Images/cover1.png" alt="Cover 1" className='w-full h-[300px] md:w-[300px] lg:h-[400px] lg:w-[400px]' />
+              <img src="./Images/cover1.png" alt="Cover 1" className='w-full h-[300px] lg:h-[400px] lg:w-[400px]' />
             </div>
             <div>
-              <img src="./Images/cover2.png" alt="Cover 2" className='w-full h-[300px] md:w-[300px] lg:h-[400px] lg:w-[400px]' />
+              <img src="./Images/cover2.png" alt="Cover 2" className='w-full h-[300px] lg:h-[400px] lg:w-[400px]' />
             </div>
             <div>
-              <img src="./Images/cover3.png" alt="Cover 3" className='w-full h-[300px] md:w-[300px] lg:h-[400px] lg:w-[400px]' />
+              <img src="./Images/cover3.png" alt="Cover 3" className='w-full h-[300px] lg:h-[400px] lg:w-[400px]' />
             </div>
             <div>
-              <img src="./Images/cover4.png" alt="Cover 3" className='w-full h-[300px] md:w-[300px] lg:h-[400px] lg:w-[400px]' />
+              <img src="./Images/cover4.png" alt="Cover 3" className='w-full h-[300px] lg:h-[400px] lg:w-[400px]' />
             </div>
           </ReactCarousel>
         </div>
