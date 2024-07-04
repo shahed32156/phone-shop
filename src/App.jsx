@@ -69,7 +69,9 @@ function App() {
 
                <>
                
-               <Carousel />
+               <RevealOnScroll>  
+              <Carousel />
+              </RevealOnScroll>  
                     <RevealOnScroll>
                       <Signin />
                     </RevealOnScroll>
@@ -87,7 +89,9 @@ function App() {
 
                 <>
                 
-                <Carousel />
+                <RevealOnScroll>  
+              <Carousel />
+              </RevealOnScroll>  
                     <RevealOnScroll>
                       <Signup />
                     </RevealOnScroll>
@@ -106,7 +110,9 @@ function App() {
 
               <>
 
+              <RevealOnScroll>  
               <Carousel />
+              </RevealOnScroll>  
                   <RevealOnScroll>
                     <Signin />
                   </RevealOnScroll>
@@ -124,7 +130,9 @@ function App() {
 
               <>
 
+              <RevealOnScroll>  
               <Carousel />
+              </RevealOnScroll>  
                   <RevealOnScroll>
                     <Forgot_pass />
                   </RevealOnScroll>
@@ -142,7 +150,9 @@ function App() {
 
               <>
 
+              <RevealOnScroll>  
               <Carousel />
+              </RevealOnScroll>  
                   <RevealOnScroll>
                     <Admin_signin />
                   </RevealOnScroll>
@@ -362,7 +372,9 @@ function App() {
 
               <>
 
+              <RevealOnScroll>  
               <Carousel />
+              </RevealOnScroll>  
                   <RevealOnScroll>
                     <Review />
                   </RevealOnScroll>
@@ -380,7 +392,9 @@ function App() {
 
               <>
 
+              <RevealOnScroll>  
               <Carousel />
+              </RevealOnScroll>  
                   <RevealOnScroll>
                     <Cart />
                   </RevealOnScroll>
