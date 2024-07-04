@@ -53,7 +53,9 @@ function App() {
                 path="/about"
                 element={
                   <>
+                    <RevealOnScroll>
                     <Carousel />
+                    </RevealOnScroll>  
                     <RevealOnScroll>
                       <About />
                     </RevealOnScroll>
