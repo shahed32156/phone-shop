@@ -21,7 +21,7 @@ price={item.price}msg1={item.msg1} msg2={item.msg2} />);
             <p className='mt-3 lg:w-[400px] mx-auto'>Brand New Collection - iPhone, OnePlus, Samsung, Pixel, Realme, Redmi </p>
         </div>
 
-        <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-10 mt-10'>
+        <div className='grid grid-cols-2 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-10 mt-10'>
 
             
                 {items}
