@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 const Offers = () => {
   const calculateTimeLeft = () => {
-    const difference = +new Date('2024-07-23') - +new Date();
+    const difference = +new Date('2024-08-19') - +new Date();
     let timeLeft = {};
 
     if (difference > 0) {
